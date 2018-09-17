@@ -1,0 +1,1 @@
+./vsca_clear.sh
